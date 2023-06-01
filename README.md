@@ -22,3 +22,6 @@ BRANCH: Realiza um salto condicional com base em uma condição específica.
 MOVE: Move um valor de um registrador para outro registrador.  
 NOT: Inverte os bits de um valor e armazena o resultado no registrador de destino.  
 SHIFT: Realiza uma operação de deslocamento (shift) à esquerda ou à direita em um valor e armazena o resultado no registrador de destino.  
+
+# Utilização com o Logisim
+Este projeto pode ser aberto e explorado utilizando o software Logisim. O arquivo principal do projeto contém o circuito digital da CPU, incluindo todos os componentes e conexões necessárias para o funcionamento correto da CPU RISC de 4 bits.
