@@ -31,3 +31,4 @@ Também compilo um código Assembly para uma instrução de linguagem de máquin
 
 
 
+
