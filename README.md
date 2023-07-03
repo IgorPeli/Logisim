@@ -33,6 +33,22 @@ Faço um [código](https://github.com/IgorPeli/Logisim/blob/main/main.py) em pyt
 Também compilo um código Assembly para uma instrução de linguagem de máquina.  
 Onde opero os seguintes [comandos](https://github.com/MarceloCamponez/CPU_LOGISIM/blob/main/MPU_RISC_4BITS.pdf).
 
+# Tabela de Conversão Assembly -> Binário -> Hexadecimal
+
+10 3a 59 7a 91 b9 c9 ea
+
+| ASSEMBLY    | BINARY     | HEX |
+| ----------- | ---------- | --- |
+| MOVE 0, 1   | 00010000   | 10  |
+| ADD A, 1    | 00110000   | 3a  |
+| SUB 9, 1    | 01011000   | 59  |
+| OR A, 1     | 01111010   | 7a  |
+| XOR 1, 1    | 10010001   | 91  |
+| SHIFT 9, 1  | 10111001   | b9  |
+| JMP 9, 0    | 11001000   | c9  |
+| GO 9, 0     | 11011000   | ea  |
+| STR F, 0    | 11011000   | ff  |
+
 
 
 
