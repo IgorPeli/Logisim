@@ -31,7 +31,7 @@ Faço um [código](https://github.com/IgorPeli/Logisim/blob/main/main.py) em pyt
 
 # Assembly -> Linguagem de Máquina
 Também compilo um código Assembly para uma instrução de linguagem de máquina.  
-Onde opero os seguintes [comandos](https://github.com/MarceloCamponez/CPU_LOGISIM/blob/main/MPU_RISC_4BITS.pdf)
+Onde opero os seguintes [comandos](https://github.com/MarceloCamponez/CPU_LOGISIM/blob/main/MPU_RISC_4BITS.pdf).
 
 
 
