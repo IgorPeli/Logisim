@@ -26,9 +26,13 @@ SHIFT: Realiza uma operação de deslocamento (shift) à esquerda ou à direita 
 # Utilização com o Logisim
 Este projeto pode ser aberto e explorado utilizando o software Logisim. O arquivo principal do projeto contém o circuito digital da CPU, incluindo todos os componentes e conexões necessárias para o funcionamento correto da CPU RISC de 4 bits.
 
+# Assembly para Python
+Faço um código em python onde você pode converter uma instrução em Assembly para hexadecimal e para binário.
+
 # Assembly -> Linguagem de Máquina
 Também compilo um código Assembly para uma instrução de linguagem de máquina.  
 Onde opero os seguintes [comandos](https://github.com/MarceloCamponez/CPU_LOGISIM/blob/main/MPU_RISC_4BITS.pdf)
+
 
 
 
