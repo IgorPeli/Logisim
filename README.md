@@ -35,8 +35,6 @@ Onde opero os seguintes [comandos](https://github.com/MarceloCamponez/CPU_LOGISI
 
 # Tabela de Conversão Assembly -> Binário -> Hexadecimal
 
-10 3a 59 7a 91 b9 c9 ea
-
 | ASSEMBLY    | BINARY     | HEX |
 | ----------- | ---------- | --- |
 | MOVE 0, 1   | 00010000   | 10  |
