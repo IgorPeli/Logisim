@@ -22,13 +22,15 @@ BRANCH: Realiza um salto condicional com base em uma condição específica.
 MOVE: Move um valor de um registrador para outro registrador.  
 NOT: Inverte os bits de um valor e armazena o resultado no registrador de destino.  
 SHIFT: Realiza uma operação de deslocamento (shift) à esquerda ou à direita em um valor e armazena o resultado no registrador de destino.     
-![image](https://github.com/IgorPeli/Logisim/assets/103079100/7d224491-0838-4084-89a4-7395c75b1248)
+![image](https://github.com/IgorPeli/Logisim/assets/103079100/7d224491-0838-4084-89a4-7395c75b1248)  
 
 # Utilização com o Logisim
 Este projeto pode ser aberto e explorado utilizando o software Logisim. O arquivo principal do projeto contém o circuito digital da CPU, incluindo todos os componentes e conexões necessárias para o funcionamento correto da CPU RISC de 4 bits.
 
 # Assembly para Python
 Faço um [código](https://github.com/IgorPeli/Logisim/blob/main/main.py) em python onde você pode converter uma instrução em Assembly para hexadecimal e para binário.  
+O primeiro operando é 0, o que significa que você está movendo o valor zero.  
+O segundo operando é 1, indicando que o valor zero será armazenado em algum registrador ou local de memória identificado pelo número 1.  
 MOVE 0, 0 é como se fosse MOVE  
 MOVE 0, 1 é como se fosse MOVE(X)
 
